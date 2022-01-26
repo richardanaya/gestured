@@ -9,4 +9,4 @@ gestured -g "3,D,U,swaymsg exec show_my_menu"
 
 # Credit
 
-This project was inspired off of [lisgd](https://git.sr.ht/~mil/lisgd)
+This project's CLI interface was inspired off of [lisgd](https://git.sr.ht/~mil/lisgd)

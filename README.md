@@ -6,3 +6,7 @@ This is a simple gesture daemon made to watch for gesture swipes and execute a c
 ```
 gestured -g "3,D,U,swaymsg exec show_my_menu"
 ```
+
+# Credit
+
+This project was inspired off of [lisgd](https://git.sr.ht/~mil/lisgd)

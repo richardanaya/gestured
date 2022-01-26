@@ -1,6 +1,8 @@
 # gestured
 A simple gesture daemon in Rust
 
+`cargo install gestured`
+
 This is a simple gesture daemon made to watch for gesture swipes and execute a command.  It was originally made for Sway WM as a way for me to execute commands from my trackpad.
 
 ```console

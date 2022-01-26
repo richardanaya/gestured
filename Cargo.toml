@@ -4,6 +4,7 @@ version = "0.0.0"
 edition = "2021"
 author = "Richard Anaya"
 description = "Gesture daemon"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

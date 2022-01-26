@@ -6,7 +6,7 @@ A simple gesture daemon in Rust
 This is a simple gesture daemon made to watch for gesture swipes and execute a command.  It was originally made for Sway WM as a way for me to execute commands from my trackpad.
 
 ```console
-# when 3 fingers are pressed from down to up run the cmd "swaymsg exec show_my_menu"
+# when 3 fingers are swiped from down to up run the cmd "swaymsg exec show_my_menu"
 gestured -g "3,D,U,swaymsg exec show_my_menu"
 ```
 
